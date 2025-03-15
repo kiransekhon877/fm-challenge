@@ -30,5 +30,10 @@ This small homepage challenge tests layout skills and includes a slider for Java
 - **HTML5** (Semantic structure)
 - **CSS3** (Flexbox, Grid, Animations)
 - **JavaScript** (Slider functionality)
-file:///C:/Users/ADMIN/Desktop/fm%20challenge/index%20fm.html#
+![Screenshot (289)](https://github.com/user-attachments/assets/4d49c32a-2295-4df6-977a-adece160903f)
+![Screenshot (290)](https://github.com/user-attachments/assets/3738115d-2cbc-4d12-8f80-fa788c71f9fb)
+![Screenshot (291)](https://github.com/user-attachments/assets/6a0e0a88-e40a-4356-8da3-d15fda1f5dea)
+
+
+
 
